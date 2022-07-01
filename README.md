@@ -50,3 +50,4 @@ This script is released under the WDL open source code license (BSD-3) (full lic
 - [BWA](http://bio-bwa.sourceforge.net/bwa.shtml#13)
 - [Picard](https://broadinstitute.github.io/picard/)
 - [Samtools](http://www.htslib.org/terms/)
+ 
